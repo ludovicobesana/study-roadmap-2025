@@ -29,6 +29,6 @@
 
 # Books
 
-1) ❌ - Automate the Boring Stuff with Python[Link](https://automatetheboringstuff.com/)
+1) ❌ - Automate the Boring Stuff with Python: [Link](https://automatetheboringstuff.com/)
 2) ❌ - Manuale di copywriting e scrittura per il web: [Link](https://www.amazon.it/Manuale-copywriting-scrittura-strumenti-scrivere/dp/8820388006/ref=asc_df_8820388006/?tag=googshopit-21&linkCode=df0&hvadid=279885803755&hvpos=&hvnetw=g&hvrand=904659144321222928&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1008463&hvtargid=pla-552773746307&psc=1)
 
