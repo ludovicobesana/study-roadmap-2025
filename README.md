@@ -30,6 +30,8 @@
 
 1) ❌ - LPI Linux Essentials: [Link](https://www.lpi.org/our-certifications/linux-essentials-overview)
 2) ❌ - PCEP™ – Certified Entry-Level Python Programmer: [Link](https://pythoninstitute.org/pcep)
+3) ❌ - Certified Tester Foundation Level: [Link](https://istqb.ita-stqb.org/)
+4) ❌ - ECDL: [Link](https://www.icdl.it/icdl-full-standard)
 
 # Books
 
