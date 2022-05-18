@@ -11,18 +11,19 @@
 # Courses
 
 1) ⏳ - Flavio Coopes - Full-Stack Web Developer Bootcamp:  *Actually doing Week 4* [Check schedule](https://bootcamp.dev/schedule/)
-2) ⏳ - JMeter [Link](https://www.udemy.com/course/jmeter-step-by-step-for-beginners/)
-3) ⏳ - Python Hackerrank Challenges: [Link](https://www.hackerrank.com/domains/python)
-4) ❌ - Python Exercism Challenges: [Link](https://exercism.org/tracks/python)
-5) ❌ - The Odin Project Full Stack JavaScript - [Link](https://www.theodinproject.com/paths/full-stack-javascript)
-6) ❌ - MongoDB Basics: [Link](https://university.mongodb.com/courses/M001/about)
-7) ❌ - Hubspot: CMS for Developers Certification course: [Link](https://academy.hubspot.com/courses/cms-for-developers)     
-8) ❌ - Quality Assurance Freecodecamp Certifcation: [Link](https://www.freecodecamp.org/learn/quality-assurance/)
-9) ❌ - Figma for developers: [Link](https://frontendmasters.com/courses/figma/)
-10) ❌ - Introduction to Observability for Test Automation: [Link](https://testautomationu.applitools.com/observability-for-test-automation/)
-11) ❌ - Tools and Techniques for Performance and Load Testing: [Link](https://testautomationu.applitools.com/performance-and-load-testing/)
-12) ❌ - Create a question and answer site with Python and Flask: [Link](https://www.codemotion.com/learning/tp/creare-un-sito-di-domande-e-risposte-con-python-e-flask-1116/enrolled)
-13) ❌ - Advanced Python Codemotion: [Link](https://www.codemotion.com/learning/tp/python-avanzato-1465/enrolled)
+2) ⏳ - Salesforce: [Link](https://trailhead.salesforce.com/en/users/teamtrailhead/trailmixes/quest-beginner-start-your-trailblazer-journey)
+3) ⏳ - JMeter [Link](https://www.udemy.com/course/jmeter-step-by-step-for-beginners/)
+4) ⏳ - Python Hackerrank Challenges: [Link](https://www.hackerrank.com/domains/python)
+5) ❌ - Python Exercism Challenges: [Link](https://exercism.org/tracks/python)
+6) ❌ - The Odin Project Full Stack JavaScript - [Link](https://www.theodinproject.com/paths/full-stack-javascript)
+7) ❌ - MongoDB Basics: [Link](https://university.mongodb.com/courses/M001/about)
+8) ❌ - Hubspot: CMS for Developers Certification course: [Link](https://academy.hubspot.com/courses/cms-for-developers)     
+9) ❌ - Quality Assurance Freecodecamp Certifcation: [Link](https://www.freecodecamp.org/learn/quality-assurance/)
+10) ❌ - Figma for developers: [Link](https://frontendmasters.com/courses/figma/)
+11) ❌ - Introduction to Observability for Test Automation: [Link](https://testautomationu.applitools.com/observability-for-test-automation/)
+12) ❌ - Tools and Techniques for Performance and Load Testing: [Link](https://testautomationu.applitools.com/performance-and-load-testing/)
+13) ❌ - Create a question and answer site with Python and Flask: [Link](https://www.codemotion.com/learning/tp/creare-un-sito-di-domande-e-risposte-con-python-e-flask-1116/enrolled)
+14) ❌ - Advanced Python Codemotion: [Link](https://www.codemotion.com/learning/tp/python-avanzato-1465/enrolled)
 
 
 # Certifications
