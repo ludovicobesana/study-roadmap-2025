@@ -24,6 +24,7 @@
 12) ❌ - Tools and Techniques for Performance and Load Testing: [Link](https://testautomationu.applitools.com/performance-and-load-testing/)
 13) ❌ - Create a question and answer site with Python and Flask: [Link](https://www.codemotion.com/learning/tp/creare-un-sito-di-domande-e-risposte-con-python-e-flask-1116/enrolled)
 14) ❌ - Advanced Python Codemotion: [Link](https://www.codemotion.com/learning/tp/python-avanzato-1465/enrolled)
+15) ❌ - Solo Learn Python Core: [Link](https://www.sololearn.com/learning/1073)
 
 
 # Certifications
