@@ -10,7 +10,7 @@
 
 # Courses
 
-1) ⏳ - Flavio Coopes - Full-Stack Web Developer Bootcamp:  *Actually doing Week 4* [Check schedule](https://bootcamp.dev/schedule/)
+1) ⏳ - Flavio Coopes - Full-Stack Web Developer Bootcamp:  *Actually doing Week 5* [Check schedule](https://bootcamp.dev/schedule/)
 2) ⏳ - Salesforce: [Link](https://trailhead.salesforce.com/en/users/teamtrailhead/trailmixes/quest-beginner-start-your-trailblazer-journey)
 3) ⏳ - JMeter [Link](https://www.udemy.com/course/jmeter-step-by-step-for-beginners/)
 4) ⏳ - Python Hackerrank Challenges: [Link](https://www.hackerrank.com/domains/python)
