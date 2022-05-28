@@ -11,20 +11,21 @@
 # Courses
 
 1) ⏳ - Flavio Coopes - Full-Stack Web Developer Bootcamp:  *Actually doing Week 5* [Check schedule](https://bootcamp.dev/schedule/)
-2) ⏳ - Salesforce: [Link](https://trailhead.salesforce.com/en/users/teamtrailhead/trailmixes/quest-beginner-start-your-trailblazer-journey)
 3) ⏳ - JMeter [Link](https://www.udemy.com/course/jmeter-step-by-step-for-beginners/)
 4) ⏳ - Python Hackerrank Challenges: [Link](https://www.hackerrank.com/domains/python)
-5) ❌ - Python Exercism Challenges: [Link](https://exercism.org/tracks/python)
-6) ❌ - The Odin Project Full Stack JavaScript - [Link](https://www.theodinproject.com/paths/full-stack-javascript)
-7) ❌ - MongoDB Basics: [Link](https://university.mongodb.com/courses/M001/about)
-8) ❌ - Hubspot: CMS for Developers Certification course: [Link](https://academy.hubspot.com/courses/cms-for-developers)     
-9) ❌ - Quality Assurance Freecodecamp Certifcation: [Link](https://www.freecodecamp.org/learn/quality-assurance/)
-10) ❌ - Figma for developers: [Link](https://frontendmasters.com/courses/figma/)
-11) ❌ - Introduction to Observability for Test Automation: [Link](https://testautomationu.applitools.com/observability-for-test-automation/)
-12) ❌ - Tools and Techniques for Performance and Load Testing: [Link](https://testautomationu.applitools.com/performance-and-load-testing/)
-13) ❌ - Create a question and answer site with Python and Flask: [Link](https://www.codemotion.com/learning/tp/creare-un-sito-di-domande-e-risposte-con-python-e-flask-1116/enrolled)
-14) ❌ - Advanced Python Codemotion: [Link](https://www.codemotion.com/learning/tp/python-avanzato-1465/enrolled)
-15) ❌ - Solo Learn Python Core: [Link](https://www.sololearn.com/learning/1073)
+5) ❌ - Create a build pipeline with Azure Pipelines: [Link](https://docs.microsoft.com/en-us/learn/modules/create-a-build-pipeline/)
+6) ❌ - Python Exercism Challenges: [Link](https://exercism.org/tracks/python)
+7) ❌ - The Odin Project Full Stack JavaScript - [Link](https://www.theodinproject.com/paths/full-stack-javascript)
+8) ❌ - MongoDB Basics: [Link](https://university.mongodb.com/courses/M001/about)
+9) ❌ - Hubspot: CMS for Developers Certification course: [Link](https://academy.hubspot.com/courses/cms-for-developers)     
+10) ❌ - Quality Assurance Freecodecamp Certifcation: [Link](https://www.freecodecamp.org/learn/quality-assurance/)
+11) ❌ - Figma for developers: [Link](https://frontendmasters.com/courses/figma/)
+12) ❌ - Introduction to Observability for Test Automation: [Link](https://testautomationu.applitools.com/observability-for-test-automation/)
+13) ❌ - Tools and Techniques for Performance and Load Testing: [Link](https://testautomationu.applitools.com/performance-and-load-testing/)
+14) ❌ - Create a question and answer site with Python and Flask: [Link](https://www.codemotion.com/learning/tp/creare-un-sito-di-domande-e-risposte-con-python-e-flask-1116/enrolled)
+15) ❌ - Advanced Python Codemotion: [Link](https://www.codemotion.com/learning/tp/python-avanzato-1465/enrolled)
+16) ❌ - Solo Learn Python Core: [Link](https://www.sololearn.com/learning/1073)
+17) ❌ - Salesforce: [Link](https://trailhead.salesforce.com/en/users/teamtrailhead/trailmixes/quest-beginner-start-your-trailblazer-journey)
 
 
 # Certifications
