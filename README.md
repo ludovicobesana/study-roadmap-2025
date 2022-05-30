@@ -26,6 +26,7 @@
 15) ❌ - Advanced Python Codemotion: [Link](https://www.codemotion.com/learning/tp/python-avanzato-1465/enrolled)
 16) ❌ - Solo Learn Python Core: [Link](https://www.sololearn.com/learning/1073)
 17) ❌ - Salesforce: [Link](https://trailhead.salesforce.com/en/users/teamtrailhead/trailmixes/quest-beginner-start-your-trailblazer-journey)
+18) ❌ - JavaScript Algorithms and Data Structures: [Link](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 
 
 # Certifications
