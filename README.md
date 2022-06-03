@@ -27,6 +27,7 @@
 16) ❌ - Solo Learn Python Core: [Link](https://www.sololearn.com/learning/1073)
 17) ❌ - Salesforce: [Link](https://trailhead.salesforce.com/en/users/teamtrailhead/trailmixes/quest-beginner-start-your-trailblazer-journey)
 18) ❌ - JavaScript Algorithms and Data Structures: [Link](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+19)  - Back End Development and APIs: [Link](https://www.freecodecamp.org/learn/back-end-development-and-apis/)
 
 
 # Certifications
