@@ -10,7 +10,7 @@
 
 # Courses
 
-1) ⏳ - Flavio Coopes - Full-Stack Web Developer Bootcamp:  *Actually doing Week 5* [Check schedule](https://bootcamp.dev/schedule/)
+1) ⏳ - Flavio Coopes - Full-Stack Web Developer Bootcamp:  *Actually doing Week 7* [Check schedule](https://bootcamp.dev/schedule/)
 3) ⏳ - JMeter [Link](https://www.udemy.com/course/jmeter-step-by-step-for-beginners/)
 4) ⏳ - Python Hackerrank Challenges: [Link](https://www.hackerrank.com/domains/python)
 5) ❌ - Create a build pipeline with Azure Pipelines: [Link](https://docs.microsoft.com/en-us/learn/modules/create-a-build-pipeline/)
