@@ -39,6 +39,7 @@
 
 # Books
 
-1) ❌ - Automate the Boring Stuff with Python: [Link](https://automatetheboringstuff.com/)
-2) ❌ - Manuale di copywriting e scrittura per il web: [Link](https://www.amazon.it/Manuale-copywriting-scrittura-strumenti-scrivere/dp/8820388006/ref=asc_df_8820388006/?tag=googshopit-21&linkCode=df0&hvadid=279885803755&hvpos=&hvnetw=g&hvrand=904659144321222928&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1008463&hvtargid=pla-552773746307&psc=1)
+1) ⏳ - Real-World Next.js: [Link](https://www.amazon.it/Real-World-Next-js-high-performance-applications-production/dp/180107349X/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1KHN6PITCQ29E&keywords=real+world+next&qid=1654809949&sprefix=real+world+nex%2Caps%2C111&sr=8-1) 
+2) ❌ - Automate the Boring Stuff with Python: [Link](https://automatetheboringstuff.com/)
+3) ❌ - Manuale di copywriting e scrittura per il web: [Link](https://www.amazon.it/Manuale-copywriting-scrittura-strumenti-scrivere/dp/8820388006/ref=asc_df_8820388006/?tag=googshopit-21&linkCode=df0&hvadid=279885803755&hvpos=&hvnetw=g&hvrand=904659144321222928&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1008463&hvtargid=pla-552773746307&psc=1)
 
