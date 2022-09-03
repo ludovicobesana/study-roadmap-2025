@@ -18,7 +18,7 @@
 7) ❌ - The Odin Project Full Stack JavaScript - [Link](https://www.theodinproject.com/paths/full-stack-javascript)
 8) ❌ - MongoDB Basics: [Link](https://university.mongodb.com/courses/M001/about)
 9) ❌ - Hubspot: CMS for Developers Certification course: [Link](https://academy.hubspot.com/courses/cms-for-developers)     
-10) ❌ - Quality Assurance Freecodecamp Certifcation: [Link](https://www.freecodecamp.org/learn/quality-assurance/)
+10) ❌ - Quality Assurance Freecodecamp Certification: [Link](https://www.freecodecamp.org/learn/quality-assurance/)
 11) ❌ - Figma for developers: [Link](https://frontendmasters.com/courses/figma/)
 12) ❌ - Introduction to Observability for Test Automation: [Link](https://testautomationu.applitools.com/observability-for-test-automation/)
 13) ❌ - Tools and Techniques for Performance and Load Testing: [Link](https://testautomationu.applitools.com/performance-and-load-testing/)
