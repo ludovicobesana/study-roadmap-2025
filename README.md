@@ -13,7 +13,7 @@
 1) ⏳ - Flavio Coopes - Full-Stack Web Developer Bootcamp:  *Actually doing Week 9* [Check schedule](https://bootcamp.dev/schedule/)
 3) ⏳ - JMeter [Link](https://www.udemy.com/course/jmeter-step-by-step-for-beginners/)
 4) ⏳ - Python Hackerrank Challenges: [Link](https://www.hackerrank.com/domains/python)
-5) ❌ - Create a build pipeline with Azure Pipelines: [Link](https://docs.microsoft.com/en-us/learn/modules/create-a-build-pipeline/)
+5) ✅ - Create a build pipeline with Azure Pipelines: [Link](https://docs.microsoft.com/en-us/learn/modules/create-a-build-pipeline/)
 6) ❌ - Python Exercism Challenges: [Link](https://exercism.org/tracks/python)
 7) ❌ - The Odin Project Full Stack JavaScript - [Link](https://www.theodinproject.com/paths/full-stack-javascript)
 8) ❌ - MongoDB Basics: [Link](https://university.mongodb.com/courses/M001/about)
@@ -28,7 +28,6 @@
 17) ❌ - Salesforce: [Link](https://trailhead.salesforce.com/en/users/teamtrailhead/trailmixes/quest-beginner-start-your-trailblazer-journey)
 18) ❌ - JavaScript Algorithms and Data Structures: [Link](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 19) ❌ - Back End Development and APIs: [Link](https://www.freecodecamp.org/learn/back-end-development-and-apis/)
-
 
 # Certifications
 
