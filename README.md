@@ -14,7 +14,7 @@
 # Courses
 
 1) ⏳ - Google Project Management Professional Certificate: [Link](https://www.coursera.org/professional-certificates/google-project-management)
-2) ⏳ - Microsoft Ignite Cloud Developer Challenge: [Link](https://learn.microsoft.com/it-it/users/cloudskillschallenge/collections/25m3h4mn2623?WT.mc_id=cloudskillschallenge_909beffb-ac11-414a-9287-a4158b5d6cf9)
+2) ✅  - Microsoft Ignite Cloud Developer Challenge: [Link](https://learn.microsoft.com/it-it/users/cloudskillschallenge/collections/25m3h4mn2623?WT.mc_id=cloudskillschallenge_909beffb-ac11-414a-9287-a4158b5d6cf9)
 3) ❌ - Introduction to Containers w/ Docker, Kubernetes & OpenShift
 4) 🛑 - Flavio Coopes - Full-Stack Web Developer Bootcamp:  *Actually doing Week 9* [Check schedule](https://bootcamp.dev/schedule/)
 5) ❌ - JMeter [Link](https://www.udemy.com/course/jmeter-step-by-step-for-beginners/)
