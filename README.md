@@ -40,7 +40,7 @@
 19) 💭 - Salesforce: [Link](https://trailhead.salesforce.com/en/users/teamtrailhead/trailmixes/quest-beginner-start-your-trailblazer-journey)
 20) ❌ - JavaScript Algorithms and Data Structures: [Link](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 21) ❌ - Back End Development and APIs: [Link](https://www.freecodecamp.org/learn/back-end-development-and-apis/)
-22) ⏳ - Fundamentals of software testing - Test Management: [Link](https://www.linkedin.com/learning/fondamenti-di-software-testing-gestione-dei-test/)
+22) ✅ - Fundamentals of software testing - Test Management: [Link](https://www.linkedin.com/learning/fondamenti-di-software-testing-gestione-dei-test/)
 23) ⏳ - Solo Learn - Java: [Link](https://www.sololearn.com/learning/1068)
 
 # Certifications
