@@ -11,6 +11,12 @@
 
 ✅ - **Done**
 
+# Degree courses 
+1) ⏳ - Foundations of Informatics
+2) ⏳ - Economics and business organization
+3) ❌ - Mathematics I
+
+
 # Courses
 
 1) ⏳ - Google Project Management Professional Certificate: [Link](https://www.coursera.org/professional-certificates/google-project-management)
