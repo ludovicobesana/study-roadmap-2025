@@ -35,4 +35,4 @@
 
 ### 📖 I'm actually reading:
 
-###### Fare i manager rimanendo brave persone - Giusppe Morici: [Link](https://www.amazon.it/)
+- ###### Fare i manager rimanendo brave persone - Giusppe Morici: [Link](https://www.amazon.it/)
