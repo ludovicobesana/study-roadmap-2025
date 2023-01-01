@@ -16,12 +16,13 @@ Thank you for visiting!
 
 <details>
   <summary>QA</summary>
-  Coming Soon.
+  1. Quality Assurance Freecodecamp Certification
+  
 </details>
 
 <details>
   <summary>Development</summary>
-  Coming Soon.
+  2. Java
 </details>
 
 <details>
@@ -36,15 +37,15 @@ Thank you for visiting!
 
 <details>
   <summary>Books</summary>
-  Coming Soon.
+  1.Fare i manager rimanendo brave persone - Giuseppe Morici: [Link](https://www.amazon.it/)
 </details>
 
 ## 👨‍🎓 I'm actually studying:
 
-- ###### Java
-- ###### Quality Assurance Freecodecamp Certification: [Link](https://www.freecodecamp.org/learn/quality-assurance/)
+- Java
+- Quality Assurance Freecodecamp Certification: [Link](https://www.freecodecamp.org/learn/quality-assurance/)
 
 
 ## 📖 I'm actually reading:
 
-- ###### Fare i manager rimanendo brave persone - Giuseppe Morici: [Link](https://www.amazon.it/)
+- Fare i manager rimanendo brave persone - Giuseppe Morici: [Link](https://www.amazon.it/)
