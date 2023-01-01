@@ -24,7 +24,7 @@ Thank you for visiting!
 <details>
   <summary>Development</summary>
   
-2. HackerRank Java: [Link](https://www.hackerrank.com/domains/java)
+1. HackerRank Java: [Link](https://www.hackerrank.com/domains/java)
 
 </details>
 
