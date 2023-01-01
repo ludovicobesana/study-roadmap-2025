@@ -16,7 +16,7 @@ Thank you for visiting!
 
 <details>
   <summary>QA</summary>
-  1. Quality Assurance Freecodecamp Certification
+  1. Quality Assurance Freecodecamp Certification: [Link](https://www.freecodecamp.org/learn/quality-assurance/)
   
 </details>
 
@@ -37,7 +37,7 @@ Thank you for visiting!
 
 <details>
   <summary>Books</summary>
-  1.Fare i manager rimanendo brave persone - Giuseppe Morici: [Link](https://www.amazon.it/)
+   1. Fare i manager rimanendo brave persone - Giuseppe Morici: [Link](https://www.amazon.it/)
 </details>
 
 ## 👨‍🎓 I'm actually studying:
