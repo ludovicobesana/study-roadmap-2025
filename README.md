@@ -1,8 +1,6 @@
 ![github-header-image](github-header-image.png)
 
-# Intro
-
-Welcome to my 2023 study roadmap repository!
+# Welcome to my 2023 study roadmap repository!
 
 This repository contains a detailed plan for my personal studies in 2023. The roadmap includes a variety of topics and resources that I plan to use to expand my knowledge and skills in the coming year.
 
