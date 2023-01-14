@@ -18,6 +18,7 @@ Thank you for visiting!
   <summary>QA</summary>
   
 1. Quality Assurance Freecodecamp Certification: [Link](https://www.freecodecamp.org/learn/quality-assurance/)
+2. Playwright
   
 </details>
 
