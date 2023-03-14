@@ -42,7 +42,7 @@ Thank you for visiting!
 <details>
   <summary>Books</summary>
    
-1. Fare i manager rimanendo brave persone - Giuseppe Morici: [Link](https://www.amazon.it/)
+1. Fare i manager rimanendo brave persone - Giuseppe Morici: [Link](https://www.amazon.it/manager-rimanendo-persone-Istruzioni-evitare/dp/8807890879/)
 2. 365 giorni di crescita - Raffaele Gaito: [Link](https://www.amazon.it/365-giorni-crescita-riflessioni-professione/dp/B0BNYWZKMH/)
 
 </details>
@@ -55,5 +55,5 @@ Thank you for visiting!
 
 ## 📖 I'm actually reading:
 
-- Fare i manager rimanendo brave persone - Giuseppe Morici: [Link](https://www.amazon.it/)
+- Fare i manager rimanendo brave persone - Giuseppe Morici: [Link](https://www.amazon.it/manager-rimanendo-persone-Istruzioni-evitare/dp/8807890879/)
 - 365 giorni di crescita - Raffaele Gaito: [Link](https://www.amazon.it/365-giorni-crescita-riflessioni-professione/dp/B0BNYWZKMH/)
