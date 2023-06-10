@@ -9,7 +9,7 @@ I will frequently update this repository with my progress and any modifications 
 Thank you for visiting!
 
 ## 👨‍🎓 Currently Studying:
-- Storybook Bootcamp | Visual Testing Course
+- Playwright
 
 ## 📖 Currently Reading:
 
@@ -17,7 +17,7 @@ Thank you for visiting!
 - 365 giorni di crescita - Raffaele Gaito: [Link](https://www.amazon.it/365-giorni-crescita-riflessioni-professione/dp/B0BNYWZKMH/)
 
 ## ✅ Completed 
-- None
+- Storybook Bootcamp | Visual Testing Course
 
 ## 📍 Roadmap:
 
@@ -26,7 +26,7 @@ Thank you for visiting!
 | Quality Assurance Freecodecamp Certification  	|  https://www.freecodecamp.org/learn/quality-assurance/ 	|  QA 	|
 |  Playwright 	|  https://testautomationu.applitools.com/js-playwright-tutorial/ 	|  QA 	|
 | HackerRank Python  	| https://www.hackerrank.com/domains/python  	|  DEV  	|
-| Storybook Bootcamp  	| https://www.udemy.com/course/storybook/learn/lecture/22572162  	|  DEV  	|
+| Storybook Bootcamp - Visual Testing Course  	| https://www.udemy.com/course/storybook/learn/lecture/22572162  	|  DEV  	|
 | Project Initiation: Starting a Successful Project  	|  https://www.coursera.org/learn/project-initiation-google?specialization=google-project-management 	|  MANAGEMENT 	|
 | Fare i manager rimanendo brave persone - Giuseppe Morici  	|  https://www.amazon.it/manager-rimanendo-persone-Istruzioni-evitare/dp/8807890879/ 	| BOOK  	|
 | 365 giorni di crescita - Raffaele Gaito  	|  https://www.amazon.it/365-giorni-crescita-riflessioni-professione/dp/B0BNYWZKMH/ 	|  BOOK 	|
