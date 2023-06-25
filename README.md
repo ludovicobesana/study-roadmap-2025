@@ -9,7 +9,8 @@ I will frequently update this repository with my progress and any modifications 
 Thank you for visiting!
 
 ## 👨‍🎓 Currently Studying:
-- Playwright
+
+- Quality Assurance Freecodecamp Certification
 
 ## 📖 Currently Reading:
 
@@ -18,6 +19,7 @@ Thank you for visiting!
 
 ## ✅ Completed 
 - Storybook Bootcamp | Visual Testing Course
+- Playwright
 
 ## 📍 Roadmap:
 
