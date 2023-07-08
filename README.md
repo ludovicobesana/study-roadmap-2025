@@ -14,12 +14,12 @@ Thank you for visiting!
 
 ## 📖 Currently Reading:
 
-- Fare i manager rimanendo brave persone - Giuseppe Morici: [Link](https://www.amazon.it/manager-rimanendo-persone-Istruzioni-evitare/dp/8807890879/)
 - 365 giorni di crescita - Raffaele Gaito: [Link](https://www.amazon.it/365-giorni-crescita-riflessioni-professione/dp/B0BNYWZKMH/)
 
 ## ✅ Completed 
 - Storybook Bootcamp | Visual Testing Course
 - Playwright
+- Fare i manager rimanendo brave persone - Giuseppe Morici
 
 ## 📍 Roadmap:
 
