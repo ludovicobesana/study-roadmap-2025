@@ -10,13 +10,18 @@ Thank you for visiting!
 
 ## 👨‍🎓 Currently Studying:
 
+- Introduction to Agile Development and Scrum
 - Quality Assurance Freecodecamp Certification
 
 ## 📖 Currently Reading:
 
+- Buddha In Testing: Finding Peace In Chaos: [Link](https://www.amazon.com/Buddha-Testing-Finding-Peace-Chaos/dp/1647608511)
 - 365 giorni di crescita - Raffaele Gaito: [Link](https://www.amazon.it/365-giorni-crescita-riflessioni-professione/dp/B0BNYWZKMH/)
 
 ## ✅ Completed 
+- Introduction to DevOps IBM
+- Building an effective dev portfolio - Josh Comeau
+- Python Certification Course
 - Storybook Bootcamp | Visual Testing Course
 - Playwright
 - Fare i manager rimanendo brave persone - Giuseppe Morici
@@ -37,7 +42,11 @@ Thank you for visiting!
 |  Posizionamento per Personal Brand 	|  https://my.learnn.com/corso/146 	|  MARKETING 	|
 | Creare applicazioni JavaScript usando TypeScript  	| https://learn.microsoft.com/it-it/training/paths/build-javascript-applications-typescript/  	|  DEV  	|
 | Three.js Tutorial  	| https://www.youtube.com/watch?v=uzkedMF-l4Q&list=PLbu98QxRH81KkLTN00OXhD8Y-pRVgTCnM 	|  DEV  	|
-
+| Building an effective dev portfolio  	|  https://www.joshwcomeau.com/effective-portfolio/	|  BOOK 	|
+| Buddha In Testing: Finding Peace In Chaos  	|  https://www.amazon.com/Buddha-Testing-Finding-Peace-Chaos/dp/1647608511	|  BOOK 	|
+| Python Certification Course 	|  https://programminghub.io/coursedetail/programming/learn/Python/ | DEV | 
+| Introduction to DevOps IBM 	|  https://www.coursera.org/learn/intro-to-devops | DEV | 
+| Introduction to Agile Development and Scrum | https://www.coursera.org/learn/agile-development-and-scrum | DEV | 
 
 
 
