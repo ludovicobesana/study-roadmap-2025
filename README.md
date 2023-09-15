@@ -48,6 +48,6 @@ Thank you for visiting!
 | Python Certification Course 	|  https://programminghub.io/coursedetail/programming/learn/Python/ | DEV | 
 | Introduction to DevOps IBM 	|  https://www.coursera.org/learn/intro-to-devops | DEV | 
 | Introduction to Agile Development and Scrum | https://www.coursera.org/learn/agile-development-and-scrum | DEV | 
-| Minimalismo e Decluttering: L’arte del riordino per vivere felici  	|  https://www.amazon.com/Minimalismo-Decluttering-riordino-Minimalism-Reorganization/dp/B07KY2DQKZ/ref=sr_1_1?crid=377CT5N86W83U&keywords=Francesca+Rosi+Minimalismo+e+Decluttering%3A&qid=1694736329&s=audible&sprefix=francesca+rosi+minimalismo+e+decluttering+%2Caudible%2C215&sr=1-1	|  BOOK 	|
+| Minimalismo e Decluttering: L’arte del riordino per vivere felici  	|  https://www.amazon.com/Minimalismo-Decluttering-riordino-Minimalism-Reorganization/dp/B07KY2DQKZ/|  BOOK 	|
 
 
