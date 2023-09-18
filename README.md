@@ -12,13 +12,14 @@ Thank you for visiting!
 
 - Introduction to Agile Development and Scrum
 - Quality Assurance Freecodecamp Certification
+- Python Essentials 1 - Python Institute
 
 ## 📖 Currently Reading:
-
-- Buddha In Testing: Finding Peace In Chaos: [Link](https://www.amazon.com/Buddha-Testing-Finding-Peace-Chaos/dp/1647608511)
+- Full Stack Testing - Gayathri Mohan: [Link](https://www.oreilly.com/library/view/full-stack-testing/9781098108120/)
 - 365 giorni di crescita - Raffaele Gaito: [Link](https://www.amazon.it/365-giorni-crescita-riflessioni-professione/dp/B0BNYWZKMH/)
 
 ## ✅ Completed 
+- Buddha In Testing: Finding Peace In Chaos
 - Minimalismo e Decluttering: L’arte del riordino per vivere felici
 - Introduction to DevOps IBM
 - Building an effective dev portfolio - Josh Comeau
@@ -48,6 +49,8 @@ Thank you for visiting!
 | Python Certification Course 	|  https://programminghub.io/coursedetail/programming/learn/Python/ | DEV | 
 | Introduction to DevOps IBM 	|  https://www.coursera.org/learn/intro-to-devops | DEV | 
 | Introduction to Agile Development and Scrum | https://www.coursera.org/learn/agile-development-and-scrum | DEV | 
-| Minimalismo e Decluttering: L’arte del riordino per vivere felici  	|  https://www.amazon.com/Minimalismo-Decluttering-riordino-Minimalism-Reorganization/dp/B07KY2DQKZ/|  BOOK 	|
+| Minimalismo e Decluttering: L’arte del riordino per vivere felici  	|  https://www.amazon.com/Minimalismo-Decluttering-riordino-Minimalism-Reorganization/dp/B07KY2DQKZ/ |  BOOK 	|
+| Full Stack Testing - Gayathri Mohan  	|  https://www.oreilly.com/library/view/full-stack-testing/9781098108120/ |  BOOK 	|
+| Python Essentials 1 - Python Institute | https://edube.org/learn/pe-1/about-pe1-1 | DEV | 
 
 
