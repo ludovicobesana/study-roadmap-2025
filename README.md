@@ -19,6 +19,7 @@ Thank you for visiting!
 - 365 giorni di crescita - Raffaele Gaito: [Link](https://www.amazon.it/365-giorni-crescita-riflessioni-professione/dp/B0BNYWZKMH/)
 
 ## ✅ Completed 
+- Foundations of Git
 - Buddha In Testing: Finding Peace In Chaos
 - Minimalismo e Decluttering: L’arte del riordino per vivere felici
 - Introduction to DevOps IBM
@@ -52,5 +53,6 @@ Thank you for visiting!
 | Minimalismo e Decluttering: L’arte del riordino per vivere felici  	|  https://www.amazon.com/Minimalismo-Decluttering-riordino-Minimalism-Reorganization/dp/B07KY2DQKZ/ |  BOOK 	|
 | Full Stack Testing - Gayathri Mohan  	|  https://www.oreilly.com/library/view/full-stack-testing/9781098108120/ |  BOOK 	|
 | Python Essentials 1 - Python Institute | https://edube.org/learn/pe-1/about-pe1-1 | DEV | 
+|  Foundations of Git 	|  https://learn.gitkraken.com/courses/git-foundations 	|  DEV 	|
 
 
