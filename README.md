@@ -11,6 +11,7 @@ Thank you for visiting!
 
 ## 👨‍🎓 Currently Studying:
 
+- Grafana Solution Architect Certification
 - [Maestro](https://maestro.mobile.dev/)
 - MasterZxSolana Bootcamp
 
@@ -30,3 +31,4 @@ Yet to be filled
 - GCP Certification Journey Professional Cloud Architect
 - MasterZxSolana Bootcamp
 - [Maestro](https://maestro.mobile.dev/)
+- Grafana Solution Architect Certification
