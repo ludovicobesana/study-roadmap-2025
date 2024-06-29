@@ -12,7 +12,7 @@ Thank you for visiting!
 ## 👨‍🎓 Currently Studying:
 
 - Grafana Solution Architect Certification
-- [Maestro](https://maestro.mobile.dev/)
+- SpecFlow
 - MasterZxSolana Bootcamp
 
 ## 📖 Currently Reading:
@@ -32,3 +32,4 @@ Yet to be filled
 - MasterZxSolana Bootcamp
 - [Maestro](https://maestro.mobile.dev/)
 - Grafana Solution Architect Certification
+- [SpecFlow](https://specflow.org/learn/school/)
