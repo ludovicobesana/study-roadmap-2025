@@ -12,7 +12,7 @@ Yet to be filled
 
 ## ✅ Completed 
 
-Yet to be filled
+- How to Live: Unlearning Everything I Knew - Kunal Gupta
 
 ## 📍 Roadmap:
 Yet to be filled
